@@ -21,11 +21,11 @@ module.exports = {
   ],
   positions: [
     {
-      title: 'Hamlet',
-      period: 'Likely early 17th century',
-      skills: ['tragedy', 'philosophy', 'death'],
+      title: 'Indra - Minsait',
+      period: 'Oct 2020 - Presente',
+      skills: ['Cloud Computing', 'Microservices', 'Design Patterns'],
       contents: `
-Prince Hamlet is visited by his father's ghost and ordered to avenge his father's murder by killing King Claudius, his uncle. After struggling with several questions, including whether what the ghost said is true and whether it is right for him to take revenge, Hamlet, along with almost all the other major characters, is killed.
+      <p>Software Architect</p>
 `
     },
     {
