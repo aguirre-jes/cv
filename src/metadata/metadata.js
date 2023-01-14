@@ -2,7 +2,8 @@ module.exports = {
   name: 'Jesús Aguirre',
   title: 'Software Architect',
   facts: {
-    'Email': '<a href="infoaguirrejesus@duck.com"><i class="fa fa-envelope fact-icon"></i>infoaguirrejesus@duck.com</a>'
+    'LinkedIn': '<a href="https://www.linkedin.com/in/info-aguirre-jesus/"><i class="fab fa-linkedin fact-icon"></i>info-aguirre-jesus</a>',    
+    'Email': '<a href="mailto:infoaguirrejesus@duck.com"><i class="fa fa-envelope fact-icon"></i>infoaguirrejesus@duck.com</a>'
   },
   skills: [
     ['Comedy', 100],
