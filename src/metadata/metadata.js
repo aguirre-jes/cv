@@ -23,8 +23,8 @@ module.exports = {
     {
       title: 'Indra - Minsait',
       period: 'Oct 2020 - Presente',
-      skills: ['Cloud Computing', 'Microservices', 'Design Patterns'],
-      contents: 'Software Architect'
+      skills: ['OCI', 'Twelve Factors App', 'Design Patterns', 'Microservices', 'Java', 'Vue.js'],
+      contents: ['Software Architect','<a href="https://www.indracompany.com/es/">Indra</a>']
     },
     {
       title: 'Twelfth Night',
