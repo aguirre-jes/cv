@@ -21,10 +21,10 @@ module.exports = {
   ],
   positions: [
     {
-      title: 'Indra - Minsait',
+      title: 'Indra - Minsait - PA',
       period: 'Oct 2020 - Presente',
-      skills: ['OCI', 'Twelve Factors App', 'Design Patterns', 'Microservices', 'Java', 'Vue.js'],
-      contents: `Software Architect <a href="https://www.indracompany.com/es/">Indra</a>`
+      skills: ['OCI', 'Twelve Factors App', 'Design Patterns', 'Microservices', 'Java'],
+      contents: `Software Architect`
     },
     {
       title: 'Twelfth Night',
