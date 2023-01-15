@@ -24,7 +24,9 @@ module.exports = {
       title: 'Indra - Minsait - PA',
       period: 'Oct 2020 - Presente',
       skills: ['OCI', 'Twelve Factors App', 'Design Patterns', 'Microservices', 'Java'],
-      contents: `[Indra](https://www.indracompany.com/es) Indra es una de las principales compañías globales de tecnología y consultoría y el socio tecnológico para las operaciones clave de los negocios de sus clientes en todo el mundo.`
+      contents: `[Indra](https://www.indracompany.com/es) es una de las principales compañías globales de tecnología y consultoría y el socio tecnológico para las operaciones clave de los negocios de sus clientes en todo el mundo.
+      Como arquitecto de software, soy responsable de:
+      - Identificar y proponer soluciones técnicas`
     },
     {
       title: 'Twelfth Night',
