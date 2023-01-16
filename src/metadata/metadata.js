@@ -26,24 +26,12 @@ module.exports = {
       skills: ['OCI', 'Twelve Factors App', 'Design Patterns', 'Microservices', 'Java'],
       contents: `[Indra](https://www.indracompany.com/es) es una de las principales compañías globales de tecnología y consultoría y el socio tecnológico para las operaciones clave de los negocios de sus clientes en todo el mundo.\n
 Como arquitecto de software, soy responsable de:\n
-* XYZ
-* ZXY`
-    },
-    {
-      title: 'Twelfth Night',
-      period: '1600 – 1601',
-      skills: ['comedy', 'love'],
-      contents: `
-Viola finds herself shipwrecked in Illyria and, assuming that her brother Sebastian has died in the wreck, disguises herself as a man to gain a position in Duke Orsino's court. Orsino sends Viola (whom he knows as Cesario) to deliver a message to his love, Olivia. Olivia, however, dislikes the Duke. She falls in love with Viola, who she thinks is a man. Eventually, Viola's brother Sebastian, who in fact was unharmed in the wreck, reappears. At a critical moment, Viola's true identity is revealed when members of the court notice the similarities between her and Sebastian. Olivia quickly falls in love with Sebastian, and Viola confesses her love for the Duke.
-`
-    },
-    {
-      title: 'The Tragedy of Romeo and Juliet',
-      period: '1595–1596, with a possible early draft written in 1591',
-      skills: ['tragedy', 'death', 'love'],
-      contents: `
-In Verona, Italy, two families, the Montagues and the Capulets, are in the midst of a bloody feud. Romeo, a Montague, and Juliet, a Capulet, fall in love and struggle to maintain their relationship in the face of familial hatred. After Romeo kills Juliet's cousin Tybalt in a fit of passion, things fall apart. Both lovers eventually commit suicide within minutes of each other, and the feuding families make peace over their recent grief.
-`
+* Identificar y proponer soluciones técnicas.
+* Realizar el diseño técnico y funcional de módulos del sistema de manera autónoma.
+* Contribuir a generar un clima de colaboración en el equipo, favoreciendo el intercambio de conocimientos.
+* Liderar tecnicamente las nuevas y actuales iniciativas, en un el ciclo de vida de cada una de ellas.
+* Promover y liderar los esfuerzos para mejorar la calidad de los entregables, la velocidad y las buenas prácticas de software.
+* Realizar PoC de diferentes nuevas iniciativas a fin de establecer un punto de referencia.`
     }
   ],
   experience: [
