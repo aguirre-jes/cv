@@ -26,8 +26,8 @@ module.exports = {
       skills: ['OCI', 'Twelve Factors App', 'Design Patterns', 'Microservices', 'Java'],
       contents: `[Indra](https://www.indracompany.com/es) es una de las principales compañías globales de tecnología y consultoría y el socio tecnológico para las operaciones clave de los negocios de sus clientes en todo el mundo.\n
 Como arquitecto de software, soy responsable de:\n
-*XYZ
-*ZXY`
+* XYZ
+* ZXY`
     },
     {
       title: 'Twelfth Night',
