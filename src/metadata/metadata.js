@@ -24,12 +24,13 @@ module.exports = {
       title: 'Indra - Minsait - PA',
       period: 'Oct 2020 - Presente',
       skills: ['OCI', 'Twelve Factors App', 'Design Patterns', 'Microservices', 'Java'],
-      contents: `[Indra](https://www.indracompany.com/es) es una de las principales compañías globales de tecnología y consultoría y el socio tecnológico para las operaciones clave de los negocios de sus clientes en todo el mundo.\n
+      contents: `Software Architect\n
+[Indra](https://www.indracompany.com/es) es una de las principales compañías globales de tecnología y consultoría y el socio tecnológico para las operaciones clave de los negocios de sus clientes en todo el mundo.\n
 Como arquitecto de software, soy responsable de:\n
 * Identificar y proponer soluciones técnicas.
 * Realizar el diseño técnico y funcional de módulos del sistema de manera autónoma.
 * Contribuir a generar un clima de colaboración en el equipo, favoreciendo el intercambio de conocimientos.
-* Liderar tecnicamente las nuevas y actuales iniciativas, en un el ciclo de vida de cada una de ellas.
+* Liderar tecnicamente las nuevas y actuales iniciativas, en el ciclo de vida de cada una de ellas.
 * Promover y liderar los esfuerzos para mejorar la calidad de los entregables, la velocidad y las buenas prácticas de software.
 * Realizar PoC de diferentes nuevas iniciativas a fin de establecer un punto de referencia.`
     }
