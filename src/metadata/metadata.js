@@ -27,7 +27,7 @@ module.exports = {
       contents: `[Indra](https://www.indracompany.com/es) es una de las principales compañías globales de tecnología y consultoría y el socio tecnológico para las operaciones clave de los negocios de sus clientes en todo el mundo.
       
 Como arquitecto de software, soy responsable de:
-  Identificar y proponer soluciones técnicas`
+* Identificar y proponer soluciones técnicas`
     },
     {
       title: 'Twelfth Night',
