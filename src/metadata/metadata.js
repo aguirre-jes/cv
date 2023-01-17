@@ -19,6 +19,21 @@ Como arquitecto de software, soy responsable de:\n
 * Liderar tecnicamente las nuevas y actuales iniciativas, en el ciclo de vida de cada una de ellas.
 * Promover y liderar los esfuerzos para mejorar la calidad de los entregables, la velocidad y las buenas prácticas de software.
 * Realizar PoC de diferentes nuevas iniciativas a fin de establecer un punto de referencia.`
+    },
+    {
+      title: 'Banco General - PA',
+      period: '2018 - 2020',
+      skills: ['Liferay DXP', 'MVC', 'REST APIs', 'Microservices', 'Java'],
+      contents: `Developer\n
+[Banco General](https://www.bgeneral.com/) Banco General, S.A. fue fundado en 1955 como el primer banco privado de capital panameño. Actualmente ofrecemos a nuestros clientes una amplia infraestructura de productos y servicios con más de 70 sucursales, más de 600 cajeros automáticos a nivel nacional, atención por teléfono y chat, y una plataforma digital de primer nivel.\n
+Como desarrollador, participe de:\n
+* Comprender las necesidades de los usuarios con el fin de definir las especificaciones técnicas de los nuevos programas o aplicaciones.
+* Identificar las partes del programa que puedan ser optimizadas.
+* Desarrollar las modificaciones y mejoras.
+* Apoyar en el monitorio y desempeño de los programas y aplicaciones existentes.
+* Integrar los programas existentes para que sean compatibles con diversas plataformas y sistemas..
+* Trabajar en conjunto con otros miembros del equipo, Gerentes, Artistas Gráficos y Diseñadores UX. 
+* Investigar y aprender acerca de nuevas tecnologías y tendencias.`
     }
   ],
   experience: [
