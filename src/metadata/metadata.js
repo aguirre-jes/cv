@@ -36,13 +36,6 @@ Como desarrollador, participe de:\n
 * Investigar y aprender acerca de nuevas tecnologías y tendencias.`
     }
   ],
-  experience: [
-    {
-      header: 'Performance',
-      skills: ['theater', 'play'],
-      contents: `Thousands of performances of my plays have been staged since the end of the 16th century. Many of my greatest plays were performed by the Lord Chamberlain's Men and King's Men acting companies at the [Globe](https://en.wikipedia.org/wiki/Globe_Theatre) and Blackfriars Theatres.`
-    }
-  ],
   certifications: [
     {
       title: 'AWS Certified Cloud Practitioner',
@@ -63,6 +56,25 @@ Como desarrollador, participe de:\n
     {
       title: 'LFS169: Introduction to GitOps',
       contents: `* [LFS169: Introduction to GitOps](https://www.credly.com/earner/earned/badge/0a629e9f-d4f8-4e85-b342-a7118c97b50f) - April 04, 2022`
+    }
+  ],
+  insights: [
+    {
+      title: 'Indra - Minsait - PA',
+      period: 'Oct 2020 - Presente',
+      contents: `He liderado la migracion, refactorizacion y creacion de nuevas iniciativas, relacionadas con el mercado de energia\n
+Con otros siguientes logros:\n
+* Liderar equipos distribuidos en diversas zonas geograficas.
+* Puesta en produccion de iniciativas con mas velocidad y calidad utilizando buenas practicas de software.
+* Persona de referencia para definir los diferentes marcos de trabajo y potenciar los ya existentes, a traves de mejora continua.
+* Punto de encuentro entre los diferentes equipos de la organizacion.`
+    },
+    {
+      title: 'Banco General - PA',
+      period: '2018 - 2020',
+      contents: `Formar parte de diferentes mesas de trabajo ágiles orientadas a la conversión de módulos de uso interno en el Banco General, con resultados satisfactorios en la puesta en producción.\n
+Otros logros:\n
+* Autonomia y manejo de responsabilidades de nivel Mid y Senior.`
     }
   ]
 };
