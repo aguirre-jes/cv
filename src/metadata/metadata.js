@@ -5,20 +5,6 @@ module.exports = {
     'LinkedIn': '<a href="https://www.linkedin.com/in/info-aguirre-jesus/"><i class="fab fa-linkedin fact-icon"></i>info-aguirre-jesus</a>',    
     'Email': '<a href="mailto:infoaguirrejesus@duck.com"><i class="fa fa-envelope fact-icon"></i>infoaguirrejesus@duck.com</a>'
   },
-  skills: [
-    ['Comedy', 100],
-    ['Love', 100],
-    ['Theater', 100],
-    ['Tragedy', 100],
-    ['Poetry', 100],
-    ['Erotic', 75],
-    ['Sonnets', 100],
-    ['Plays', 100],
-    ['Writing', 100],
-    ['Directing', 75],
-    ['Literature', 100],
-    ['Influence', 100],
-  ],
   positions: [
     {
       title: 'Indra - Minsait - PA',
