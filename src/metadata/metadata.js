@@ -14,12 +14,13 @@ module.exports = {
       contents: `Software Architect\n
 [Indra](https://www.indracompany.com/es) es una de las principales compañías globales de tecnología y consultoría y el socio tecnológico para las operaciones clave de los negocios de sus clientes en todo el mundo.\n
 Como arquitecto de software, soy responsable de:\n
-* Identificar y proponer soluciones técnicas.
+* Identificar y proponer soluciones técnicas en sistemas de niveles de tráfico alto.
 * Realizar el diseño técnico y funcional de módulos del sistema de manera autónoma.
 * Contribuir a generar un clima de colaboración en el equipo, favoreciendo el intercambio de conocimientos.
 * Liderar tecnicamente las nuevas y actuales iniciativas, en el ciclo de vida de cada una de ellas.
 * Promover y liderar los esfuerzos para mejorar la calidad de los entregables, la velocidad y las buenas prácticas de software.
-* Realizar PoC de diferentes nuevas iniciativas a fin de establecer un punto de referencia.`
+* Realizar PoC de diferentes nuevas iniciativas a fin de establecer un punto de referencia.
+* Responsable de toma de decisiones con respecto a migraciones y nuevos proyectos en entornos Cloud y OnPremises.`
     },
     {
       title: 'Banco General - PA',
