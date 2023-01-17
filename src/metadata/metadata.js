@@ -4,7 +4,7 @@ module.exports = {
   facts: {
     'LinkedIn': '<a href="https://www.linkedin.com/in/info-aguirre-jesus/"><i class="fab fa-linkedin fact-icon"></i>info-aguirre-jesus</a>',    
     'Email': '<a href="mailto:infoaguirrejesus@duck.com"><i class="fa fa-envelope fact-icon"></i>infoaguirrejesus@duck.com</a>',
-    'Email': '<a href="https://github.com/aguirre-jes"><i class="fab fa-github fact-icon"></i>aguirre-jes</a>'
+    'GitHub': '<a href="https://github.com/aguirre-jes"><i class="fab fa-github fact-icon"></i>aguirre-jes</a>'
   },
   positions: [
     {
