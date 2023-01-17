@@ -90,7 +90,14 @@
 
         <div class="border-bottom border-2 border-print-0 border-dark mb-5 pb-5 pb-print-0 mb-print-1">
             <h2 class="mb-4">Certificaciones</h2>
+            {{#each certifications}}
+            <div class="mb-4">
+                <h3 class="fs-4 fw-normal">{{ header }}</h3>
 
+                {{{markdown contents }}}
+
+            </div>
+            {{/each}}
         </div>
 
         <h2 class="mb-4">Additional Experience</h2>

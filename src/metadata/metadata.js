@@ -40,16 +40,13 @@ Como desarrollador, participe de:\n
     {
       header: 'Performance',
       skills: ['theater', 'play'],
-      contents: `
-Thousands of performances of my plays have been staged since the end of the 16th century. Many of my greatest plays were performed by the Lord Chamberlain's Men and King's Men acting companies at the [Globe](https://en.wikipedia.org/wiki/Globe_Theatre) and Blackfriars Theatres.
-`
-    },
+      contents: `Thousands of performances of my plays have been staged since the end of the 16th century. Many of my greatest plays were performed by the Lord Chamberlain's Men and King's Men acting companies at the [Globe](https://en.wikipedia.org/wiki/Globe_Theatre) and Blackfriars Theatres.`
+    }
+  ],
+  certifications: [
     {
-      header: 'Poetry',
-      skills: ['poetry', 'erotic'],
-      contents: `
-In 1593 and 1594, when the theatres were closed because of plague, I published two narrative poems on sexual themes, Venus and Adonis and The Rape of Lucrece. I dedicated them to Henry Wriothesley, Earl of Southampton.
-`
+      title: 'AWS Certified Cloud Practitioner',
+      contents: `[AWS Certified Cloud Practitioner](https://www.credly.com/badges/3918e8da-39da-460d-9c76-96505bfc6206) - April 23, 2022`
     }
   ]
 };
