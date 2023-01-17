@@ -46,7 +46,7 @@ Como desarrollador, participe de:\n
   certifications: [
     {
       title: 'AWS Certified Cloud Practitioner',
-      contents: `[AWS Certified Cloud Practitioner](https://www.credly.com/badges/3918e8da-39da-460d-9c76-96505bfc6206) - April 23, 2022`
+      contents: `* @fab-fa-aws[AWS Certified Cloud Practitioner](https://www.credly.com/badges/3918e8da-39da-460d-9c76-96505bfc6206) - April 23, 2022`
     }
   ]
 };
